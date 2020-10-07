@@ -392,54 +392,6 @@ thead{
     text-decoration: none;
 }
 
-span.rm-page-ref[data-tag*="电影"]{
-  color: #F9F8F2 !important;
-    background: #E0A909 !important;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 600;
-}
-
-span.rm-page-ref[data-tag*="Python"]{
-  color: #F9F8F2 !important;
-    background: #90C308 !important;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 600;
-}
-
-span.rm-page-ref[data-tag*="roamresearch"]{
-  color: #F9F8F2 !important;
-    background: #08C310 !important;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 600;
-}
-
-span.rm-page-ref[data-tag*="books"]{
-  color: #F9F8F2 !important;
-    background: #088BC3 !important;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 600;
-}
-
-span.rm-page-ref[data-tag*="已分类|Notes"]{
-  color: #F9F8F2 !important;
-    background: #C30877 !important;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 600;
-}
-
-span.rm-page-ref[data-tag*="已分类|TODO"]{
-  color: #F9F8F2 !important;
-    background: #C38B08 !important;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 600;
-}
-
 .rm-page-ref-link-color {
     color: #12A9A9;
     text-decoration: none;
