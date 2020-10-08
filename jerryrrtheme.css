@@ -587,6 +587,7 @@ h2 textarea,
   color: var(--h2-color);
   padding: 0 0 3px 0;
   margin-bottom:0px;
+  border-left: 1.5px solid var(--h2-color);
     }
 h2,h2 div {
   font-family: var(--font-style);
@@ -609,6 +610,7 @@ h3 textarea,
   padding: 0 0 3px 0;
   margin-bottom:-10px;
   font-weight:bold;
+  border-left: 1.5px solid var(--h2-color);
  }
 
 div,
