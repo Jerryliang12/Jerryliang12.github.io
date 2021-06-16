@@ -950,9 +950,9 @@ div[style*="background-color: white"]{
 }
 
  
-.rm-embed .rm-reference-main{
+/* .rm-embed .rm-reference-main{
   display:none;
-}
+} */
 
  
 #roam-right-sidebar-content > div > div:nth-child(n) > div {
